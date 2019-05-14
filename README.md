@@ -1,2 +1,2 @@
 # hello-world
-My repository
+GM repository for getting sripts 
